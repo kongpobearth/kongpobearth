@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">I have study in computer science for now<br><br>🌍  I'm based in Bangkok,Thailand<br>✉️  You can contact me at kongpob.earth@gmail.com</h4>
 
 ###
